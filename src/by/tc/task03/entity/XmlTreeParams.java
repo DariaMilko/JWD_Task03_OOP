@@ -2,7 +2,7 @@ package by.tc.task03.entity;
 
 import by.tc.task03.entity.print.XmlPrintUtil;
 
-public class XmlTreeParams{
+public class XmlTreeParams{// сколько раз мы повторяли, что классы не стоит называть множественным числом
 
     private XmlNodeParams rootNode;
     public void setRoot(XmlNodeParams rootNode) {
